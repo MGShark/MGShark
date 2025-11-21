@@ -25,15 +25,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">I'm Marcos García (Sharkness)<br><br>🔭 I’m currently exploring different areas of computing and programming.<br>🌱 I enjoy learning everything from web development to databases, experimenting mostly with JavaScript, Python, Git, GitHub, and other technologies.<br>⚡ In my free time, I love creating pixel art (<a href="https://www.artstation.com/sharkness" target="_blank">ArtStation</a>), reading, and playing video games.</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -47,20 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   Most used languages :</h3>
+<h2 align="left">🔥   Most used languages</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VSharkness&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VSharkness.VSharkness&"  />
 </div>
 
 ###
