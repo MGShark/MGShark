@@ -29,7 +29,16 @@
 
 ###
 
-<p align="left">I'm Marcos García (Sharkness)<br><br>🔭 I’m currently exploring different areas of computing and programming.<br>🌱 I enjoy learning everything from web development to databases, experimenting mostly with JavaScript, Python, Git, GitHub, and other technologies.<br>⚡ In my free time, I love creating pixel art (<a href="https://www.artstation.com/sharkness" target="_blank">ArtStation</a>), reading, and playing video games.</p>
+<p align="left">
+  Hi, I'm <strong>Marcos García (Sharkness)</strong><br><br>
+
+  💻 I enjoy exploring different areas of computing, from programming and scripting to systems, servers and databases. 
+  I like learning new tools, experimenting with ideas and building projects as I grow in the field.<br><br>
+  🎮 Outside of tech, I’ve been a <strong>Pixel Artist for over 10 years</strong>, creating tiles, sprites, animations and UI for indie games.<br>
+  
+  🎨 Pixel Art Portfolio: 
+  <a href="https://www.artstation.com/sharkness" target="_blank">ArtStation</a><br>
+</p>
 
 <h2 align="left">🛠 Language and tools</h3>
 
