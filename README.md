@@ -30,7 +30,7 @@
 ###
 
 <p align="left">
-  Hi, I'm <strong>Marcos García (Sharkness)</strong><br><br>
+  Hi, I'm <strong>Marcos García (Shark)</strong><br><br>
 
   💻 I enjoy exploring different areas of computing, from programming and scripting to systems, servers and databases. 
   I like learning new tools, experimenting with ideas and building projects as I grow in the field.<br><br>
